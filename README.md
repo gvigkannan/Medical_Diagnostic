@@ -1,1 +1,1 @@
-# Medical_Diagnostic
+# Medical_Diagnostic_CNN
